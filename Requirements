@@ -1,0 +1,70 @@
+Propose a software project that makes use of the concepts of the course
+• Must include intelligence based on Knowledge Representation
+• Propositional Logic
+• Logic programming (Prolog)
+• Planning (PDDL)
+• Semantic Web (yet to be introduced)
+• Probabilistic methods (yet to be introduced)
+
+1
+Software projects
+• Group project
+• Up to 3 people
+• Project proposal due November 7
+• 10 minute project presentations and demonstrations on the last week
+of classes (December 12)
+• Final submission (December 20)
+1. Presentation slides
+2. Code with comments
+
+2
+Project proposal
+• Please submit to Canvas a brief description of the proposed project
+• Include a title, group members
+• Email or meet me during office hours to discuss a proposed project idea
+• How to choose a project topic?
+• Build a knowledge-based system to capture your knowledge about something in which you are an
+“expert”
+• If you use data, it must be real-world data (not made up)
+• For example:
+• Do a Prolog software project
+• Minimum of 10 rules
+• Input: answers to some questions
+• Output: a recommendation and an (automatic) summary of the reasoning
+
+3
+Software project
+• Examples
+• Rules for applying to a MS program in the US; output is a university
+• Rules for a diet (questions can be based on health goals)
+• Rules for selecting a smartphone brand (based on budget, looks/color, features, ...)
+• Diagnosis of a disease based on a public health website
+• http://www.mayoclinic.org/diseases-conditions
+• http://symptoms.webmd.com/symptomchecker
+• Encode CSU Fullerton rules based on the graduate or undergraduate handbook
+• Prerequisites, co-requisite rules
+• Solve a puzzle based on logic
+• Rules for checking if a given C++ code is correct (for a certain problem)
+• Linked lists
+
+4
+Some projects from previous semesters
+• Recommendation systems
+• Fashion Recommendation
+• Vacation trips
+• Wine Advisor
+• Job recruitment matching
+• Recommendations to buy a used car
+• Career counselling advice
+• Coral compatibility for home reef aquarium
+• Care instructions for rescued kittens
+• Movie recommender
+• Credit card recommendation
+• Presidential Election Recommendation
+• Diet plan recommendation
+• Graduate admission based on GRE, IELTS, GPA
+• Using Semantic Web
+• Web application to query film data
+• Using Bayesian networks
+• Restaurant recommendation
+• Heart Attack Prediction
